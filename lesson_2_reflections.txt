@@ -4,7 +4,7 @@ step 1: go to correct directory using: cd {directory pathway}
 step 2: type git init 
 step 3: use git status to check repository status 
 step 4: add files to Git by typing: get add {file name}
-
+hello
 2. How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 - working directory (before staging area) is the where draft files are saved but yet to be committed
