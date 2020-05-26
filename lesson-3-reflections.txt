@@ -6,3 +6,9 @@
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 - give more control to push when commits are a logical size i.e. new feature
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks: to clone another GitHub users repository via GitHub
+clones: to copy another repository from GitHub or another machine 
+branches: to create different streams (context) for the code 
