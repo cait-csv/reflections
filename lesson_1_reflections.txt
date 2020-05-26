@@ -1,0 +1,43 @@
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It made it easy to compare side-by-side which line of code had differences. 
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+- easy to revert to previous versions (if needed)
+- more efficient troubleshooting 
+- able to compare,identify and understand changes made in each versions
+- ability to compare versions and provide a good view for code optimisation 
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros
+- flexibility to adjust commit intervals depending on context 
+- in Git, you are able to add comments to each commit 
+- ability to run diff commands with Git IDs 
+
+Cons
+- forget to follow a logical commit interval, end up making commits that are 'too big'
+- computer crashes before you could commit
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+- version control system like Git was made specifically for programmers 
+- ability of Git understand the relationship of multiple files to make a program work 
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+- retrieve the git ID from git log 
+- use git diff and the two git IDs you want to compare to view the difference in the code 
+
+6. How might using version control make you more confident to make changes that could break something?
+
+- it helps save previous and future versions which allows us to backtrack our code and identify which commit first introduced the error/problem 
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+- basic navigations like: 
+	- open/close file
+	- check software versions
+	- check if software is already installed on my machine 
+	- understand how to troubleshoot when software is not installing properly 
