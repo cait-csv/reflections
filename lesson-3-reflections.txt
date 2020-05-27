@@ -9,6 +9,15 @@
 
 3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-forks: to clone another GitHub users repository via GitHub
-clones: to copy another repository from GitHub or another machine 
-branches: to create different streams (context) for the code 
+- forks: to clone another GitHub users repository via GitHub
+- clones: to copy another repository from GitHub or another machine 
+- branches: to create different streams (context) for the code 
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- ability to compare changes 
+- ability to merge into master at a later state (manually)
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- I can share, compare and merge my code with other programmers. It would be e	asier using tools as such rather than doing in manually. 
