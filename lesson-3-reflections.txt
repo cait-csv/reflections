@@ -20,4 +20,10 @@
 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-- I can share, compare and merge my code with other programmers. It would be e	asier using tools as such rather than doing in manually. 
+- I can share, compare and merge my code with other programmers. It would be easier using tools as such rather than doing in manually. 
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+- In general, I think it is best practice to make any changes on a seperate branches (especially for collaboration) which can later be reviewed, merged and discarded when done. This is to minimise bugs or clashes in code. 
+- Otherwise, making changes in master can be done for small changes that will not break the code such as text changes 
+- branches allows for easy collaboration, troubleshooting, testing and experiments while changing on master is more straghtforward and doesn't need extra work like merging 
